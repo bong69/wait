@@ -1,1 +1,0 @@
-print("you're a fag")
