@@ -1,2 +1,2 @@
 # wait
-npm package for waiting
+retarded npm package that fuckin waits a certain amount of miliseconds

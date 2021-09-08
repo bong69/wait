@@ -1,0 +1,22 @@
+{
+  "name": "wait",
+  "version": "1.0.0",
+  "description": "does shit i guess",
+  "main": "shitass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bong69/wait.git"
+  },
+  "keywords": [
+    "penis"
+  ],
+  "author": "bong69",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bong69/wait/issues"
+  },
+  "homepage": "https://github.com/bong69/wait#readme"
+}
